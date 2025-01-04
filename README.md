@@ -20,6 +20,13 @@ Benefícios: Melhora a usabilidade para usuários finais, fornecendo formas prá
 Implementação de testes automatizados para validar a funcionalidade de unidades específicas do código.
 Benefícios: Aumenta a confiabilidade do sistema, reduzindo bugs e garantindo que alterações futuras não quebrem funcionalidades existentes.
 
+### Construído com
+
+![badge-net]
+![badge-swagger]
+![badge-mysql]
+![badge-linux]
+
 ## Getting Started
 
 Para obter um cópia local funcionando, siga estes passos simples.
@@ -27,7 +34,7 @@ Para obter um cópia local funcionando, siga estes passos simples.
 ### Requisitos
 
 * Visual Studio versão 2022+, Visual Studio Code ou Rider
-* Windows 10+ ou Linux/MacOs com [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) instaldo
+* Windows 10+ ou Linux/MacOs com [.NET SDK][dot-net-sdk] instaldo
 * MySql Server
 
 ### Instalação
@@ -43,4 +50,9 @@ Para obter um cópia local funcionando, siga estes passos simples.
 
 
 
-
+<!-- Links -->
+[dot-net-sdk]: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+[badge-net]: https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge
+[badge-swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge
+[badge-mysql]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge
+[badge-linux]: https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge
